@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BPD_11_03_25",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BPD_11_03_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BPD_11_03_25-Debug-0162f6d416bbd29c9b99.json",
+					"name" : "BPD_11_03_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bpd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bpd-Debug-bcfdc698125dbd9305cd.json",
+					"name" : "bpd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bpd2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bpd2.cpp-Debug-f66190876eb863335955.json",
+					"name" : "bpd2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bpd3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bpd3-Debug-67456775b7e3ebcdbe2f.json",
+					"name" : "bpd3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bpd4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bpd4-Debug-36566df8786670c4063f.json",
+					"name" : "bpd4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "odev::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-odev-Debug-cda5a23638dd75724111.json",
+					"name" : "odev",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage",
+		"source" : "/Users/merdemanlas/CLionProjects/BPD_11-03-25"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

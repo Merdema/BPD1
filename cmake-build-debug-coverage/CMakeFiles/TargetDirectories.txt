@@ -1,0 +1,8 @@
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/BPD_11_03_25.dir
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/bpd2.cpp.dir
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/bpd.dir
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/bpd3.dir
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/bpd4.dir
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/odev.dir
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/merdemanlas/CLionProjects/BPD_11-03-25/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
