@@ -16,7 +16,7 @@ int main(void)
 
     percentage = 220 * 25 / 100.0;
     printf("25%% of 220 is %f \n", percentage);
-    printf("%f/%f = %f\n", g, f, g / f);
+    printf("%.2f/%.2f = %.2f\n", g, f, g / f);
 
 
 
